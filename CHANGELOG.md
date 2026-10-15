@@ -3,4 +3,4 @@ Thank you!
 Put the changelog BELOW the dashes. ANYTHING ABOVE IS IGNORED
 hi
 -----------------
-- Fixed an issue that prevented world creation from working on 26.3+.
+- Fixed an oversight that caused all of Trailier Tales' Armor Trims to not be colored properly.
